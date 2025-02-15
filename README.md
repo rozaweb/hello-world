@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Tech professional with a focus on web tracking and data analytics. Passionate about problem-solving, knowledge sharing, and mentoring. Exploring the path to data science while working with international teams. 🚀
